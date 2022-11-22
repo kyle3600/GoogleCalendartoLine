@@ -1,5 +1,8 @@
 # GoogleCalendartoLine
-# 透過共享的google 日曆及google app自動化腳本，每日發送通知到line notify
+
+透過共享的google 日曆及google app自動化腳本，每日發送通知到line notify
+
+建立步驟
 1. 建立一個日曆
 2. 申請line Notify token
   https://notify-bot.line.me/doc/en/
